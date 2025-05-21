@@ -21,7 +21,7 @@ A full-stack web application for managing products using **.NET 8 Web API**, **A
 
 | Backend      | Frontend | Database   | Other Tools       |
 |--------------|----------|------------|--------------------|
-| .NET 8       | Angular 17 | SQL Server | Swagger, Docker     |
+| .NET 8       | Angular 18 | SQL Server | Swagger, Docker     |
 | ASP.NET Core | TypeScript | EF Core    | Visual Studio Code |
 
 ---
