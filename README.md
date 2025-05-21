@@ -1,6 +1,6 @@
-# 🛍️ Product Management Application
+# 🛍️ Inventory Application
 
-A full-stack web application for managing products using **.NET 9 Web API**, **Angular**, and **SQL Server**.
+A full-stack web application for managing products using **.NET 8 Web API**, **Angular**, and **SQL Server**.
 
 ---
 
@@ -14,7 +14,6 @@ A full-stack web application for managing products using **.NET 9 Web API**, **A
 - ✔️ Reactive form validations
 - 🗄️ SQL Server integration
 - 🧪 Swagger API documentation
-- 🚀 Docker support (SQL Server)
 
 ---
 
@@ -22,7 +21,7 @@ A full-stack web application for managing products using **.NET 9 Web API**, **A
 
 | Backend      | Frontend | Database   | Other Tools       |
 |--------------|----------|------------|--------------------|
-| .NET 9       | Angular 17 | SQL Server | Swagger, Docker     |
+| .NET 8       | Angular 17 | SQL Server | Swagger, Docker     |
 | ASP.NET Core | TypeScript | EF Core    | Visual Studio Code |
 
 ---
