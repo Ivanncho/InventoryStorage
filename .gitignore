@@ -1,0 +1,21 @@
+# Ignore Visual Studio user-specific files and folders
+.vs/
+*.suo
+*.user
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore Angular/node-related stuff
+node_modules/
+dist/
+.angular/
+
+# Ignore environment files
+.env
+*.env
+
+# OS junk
+.DS_Store
+Thumbs.db
